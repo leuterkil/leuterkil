@@ -6,7 +6,7 @@
 ### Hi there 👋
 - 👦🏻 &nbsp; I'm Lefteris Charissopoulos from Kilkis Greece
 - 👨🏻‍🎓 &nbsp; I'm undergraduate software engineer student on department informatics engineering and telecommunications [@IHU](http://ict.ihu.gr/). 
-- 🌱 &nbsp; Currently learning on Unreal Engine game development, express js and code optimization.
+- 🌱 &nbsp; Currently learning on Unreal Engine game development and code optimization.
 - 🎮 &nbsp; Loving playing video games alone and with friends.My favorites are Tekken,Guitar Hero and the Messenger.
 - 🎸 &nbsp; Guitar player and beginner songwriter with metal & rock music influences.🤘🏻 
 - 📸 &nbsp; Click some photos with my Sony a21 camera
@@ -25,6 +25,7 @@
 ![Bulma](https://img.shields.io/badge/Web-Bulma-informational?style=flat&logo=Bulma&logoColor=white&color=0066FF)
 ![JS](https://img.shields.io/badge/Web-JavaScript-informational?style=flat&logo=Javascript&logoColor=white&color=0066FF)
 ![NodeJS](https://img.shields.io/badge/Web-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=0066FF)
+![NodeJS](https://img.shields.io/badge/Web-Express.js-informational?style=flat&logo=Express&logoColor=white&color=0066FF)
 - &nbsp;
 ![MySQL](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=0066FF)
 ![Mongo](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=0066FF)
