@@ -25,7 +25,9 @@
 ![Bulma](https://img.shields.io/badge/Web-Bulma-informational?style=flat&logo=Bulma&logoColor=white&color=0066FF)
 ![JS](https://img.shields.io/badge/Web-JavaScript-informational?style=flat&logo=Javascript&logoColor=white&color=0066FF)
 ![NodeJS](https://img.shields.io/badge/Web-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=0066FF)
-![NodeJS](https://img.shields.io/badge/Web-Express.js-informational?style=flat&logo=Express&logoColor=white&color=0066FF)
+![NPM](https://img.shields.io/badge/Web-NPM-informational?style=flat&logo=npm&logoColor=white&color=0066FF)
+![ExpressJS](https://img.shields.io/badge/Web-Express.js-informational?style=flat&logo=Express&logoColor=white&color=0066FF)
+![ReactJS](https://img.shields.io/badge/Web-React.js-informational?style=flat&logo=React&logoColor=white&color=0066FF)
 - &nbsp;
 ![MySQL](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=0066FF)
 ![Mongo](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=0066FF)
@@ -35,6 +37,9 @@
 ![Github](https://img.shields.io/badge/Version%20Control-Github-informational?style=flat&logo=Github&logoColor=white&color=0066FF)
 - &nbsp;
 ![VSCode](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=0066FF)
+- &nbsp;
+![Docker](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=Docker&logoColor=white&color=0066FF)
+![TravisCI](https://img.shields.io/badge/DevOps-TravisCI-informational?style=flat&logo=Travis&logoColor=white&color=0066FF)
 
 ## Connect with me
 <div align="center">
