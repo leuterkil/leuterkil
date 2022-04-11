@@ -40,7 +40,11 @@
 - &nbsp;
 ![Docker](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=Docker&logoColor=white&color=0066FF)
 ![TravisCI](https://img.shields.io/badge/DevOps-TravisCI-informational?style=flat&logo=Travis&logoColor=white&color=0066FF)
-
+## My Stats
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=leuterkil&theme=radical&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leuterkil&theme=radical&layout=compact" />
+</p>
 ## Connect with me
 <div align="center">
 <a href="https://twitter.com/echarissopoulos" target="_blank">
@@ -62,17 +66,3 @@
 <img src=https://img.shields.io/badge/web-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> 
 </div> 
-<!--
-**leuterkil/leuterkil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
