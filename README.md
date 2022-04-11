@@ -45,6 +45,7 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=leuterkil&theme=radical&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leuterkil&theme=radical&layout=compact" />
 </p>
+
 ## Connect with me
 <div align="center">
 <a href="https://twitter.com/echarissopoulos" target="_blank">
