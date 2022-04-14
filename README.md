@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif?cid=ecf05e47rqguryokapj8siw1j559ddwo3ppmktn56e17qvdh&rid=giphy.gif&ct=g" width = "30%">
  </div>
- <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=790b76118261fada45624c9f62205725d75af9796826aaf1&rid=giphy.gif&ct=g" align="right" >
+ <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" >
  
 ### Hi there 👋
 - 👦🏻 &nbsp; I'm Lefteris Charissopoulos from Kilkis Greece
@@ -45,6 +45,8 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=leuterkil&theme=radical&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leuterkil&theme=radical&layout=compact" />
 </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leuterkil&theme=onedark" alt="leuterkil" /></a> </p>
 
 ![counter](https://ennd8wxr3kpy0ar.m.pipedream.net)
 
