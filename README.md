@@ -22,12 +22,16 @@
 ![HTML](https://img.shields.io/badge/Web-HTML-informational?style=flat&logo=Html5&logoColor=white&color=0066FF)
 ![CSS](https://img.shields.io/badge/Web-CSS-informational?style=flat&logo=Css3&logoColor=white&color=0066FF)
 ![BS](https://img.shields.io/badge/Web-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=0066FF)
-![Bulma](https://img.shields.io/badge/Web-Bulma-informational?style=flat&logo=Bulma&logoColor=white&color=0066FF)
+![Tailwind](https://img.shields.io/badge/Web-Tailwind-informational?style=flat&logo=TailwindCss&logoColor=white&color=0066FF)
+![MaterialUI](https://img.shields.io/badge/Web-MaterialUI-informational?style=flat&logo=MUI&logoColor=white&color=0066FF)
 ![JS](https://img.shields.io/badge/Web-JavaScript-informational?style=flat&logo=Javascript&logoColor=white&color=0066FF)
 ![NodeJS](https://img.shields.io/badge/Web-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=0066FF)
 ![NPM](https://img.shields.io/badge/Web-NPM-informational?style=flat&logo=npm&logoColor=white&color=0066FF)
 ![ExpressJS](https://img.shields.io/badge/Web-Express.js-informational?style=flat&logo=Express&logoColor=white&color=0066FF)
+![NestJS](https://img.shields.io/badge/Web-Nest.js-informational?style=flat&logo=NestJs&logoColor=white&color=0066FF)
 ![ReactJS](https://img.shields.io/badge/Web-React.js-informational?style=flat&logo=React&logoColor=white&color=0066FF)
+![Angular](https://img.shields.io/badge/Web-Angular-informational?style=flat&logo=Angular&logoColor=white&color=0066FF)
+![Redux](https://img.shields.io/badge/Web-Redux-informational?style=flat&logo=Redux&logoColor=white&color=0066FF)
 - &nbsp;
 ![MySQL](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=0066FF)
 ![Mongo](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=0066FF)
@@ -40,6 +44,10 @@
 - &nbsp;
 ![Docker](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=Docker&logoColor=white&color=0066FF)
 ![TravisCI](https://img.shields.io/badge/DevOps-TravisCI-informational?style=flat&logo=Travis&logoColor=white&color=0066FF)
+- &nbsp;
+![Wordpress](https://img.shields.io/badge/CMS-Wordpress-informational?style=flat&logo=Wordpress&logoColor=white&color=0066FF)
+![Presta](https://img.shields.io/badge/CMS-Prestashop-informational?style=flat&logo=Prestashop&logoColor=white&color=0066FF)
+![Strapi](https://img.shields.io/badge/CMS-Strapi-informational?style=flat&logo=Strapi&logoColor=white&color=0066FF)
 ## My Stats
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=leuterkil&theme=radical&show_icons=true&include_all_commits=true" />
