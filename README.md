@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif?cid=ecf05e47rqguryokapj8siw1j559ddwo3ppmktn56e17qvdh&rid=giphy.gif&ct=g" width = "30%">
- </div>
- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" >
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" >
  
 ### Hi there 👋
 - 👦🏻 &nbsp; I'm Lefteris Charissopoulos from Kilkis Greece
