@@ -2,9 +2,10 @@
 
 # Hi, I'm Lefteris 👋
 
+<img width="320" height="180" alt="gifMe" src="https://github.com/user-attachments/assets/01e92938-cac6-4b5f-9157-621763cddd7c" />
+
 ### Software Engineer · Frontend & TypeScript · Self-Hosting & Privacy Enthusiast
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGMybzJxbmg4ZTB3Y2s1cnl1dTB5eHV0a2FiaGk5azFybWd2OGxwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H8l7oXoz6npe5DXHw2/giphy.gif" width="280" />
 
 </div>
 
