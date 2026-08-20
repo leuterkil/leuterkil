@@ -2,7 +2,8 @@
 
 # Hi, I'm Lefteris 👋
 
-<img width="320" height="180" alt="gifMe" src="https://github.com/user-attachments/assets/01e92938-cac6-4b5f-9157-621763cddd7c" />
+<img width="400" height="240" alt="ezgif-57315f3187a0d236" src="https://github.com/user-attachments/assets/547b0aba-64e2-4cb6-8bb6-9c6c34195719" />
+
 
 ### Software Engineer · Frontend & TypeScript · Self-Hosting & Privacy Enthusiast
 
