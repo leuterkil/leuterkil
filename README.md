@@ -4,7 +4,7 @@
 
 ### Software Engineer · Frontend & TypeScript · Self-Hosting & Privacy Enthusiast
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGMybzJxbmg4ZTB3Y2s1cnl1dTB5eHV0a2FiaGk5azFybWd2OGxwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H8l7oXoz6npe5DXHw2/giphy.gif" width="280" />
 
 </div>
 
