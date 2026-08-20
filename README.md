@@ -1,83 +1,88 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" >
- 
-### Hi there 👋
-- 👦🏻 &nbsp; I'm Lefteris Charissopoulos from Kilkis Greece
-- 👨🏻‍🎓 &nbsp; I'm B.Sc graduated software engineer of the department "informatics engineering and telecommunications" [@IHU](http://ict.ihu.gr/). 
-- 🌱 &nbsp; Currently learning on AI Fundamentals and Prompt Engineering.
-- 🎮 &nbsp; Loving playing video games alone and with friends.My favorites are Tekken,Guitar Hero and the Messenger.
-- 🎸 &nbsp; Guitar player and beginner songwriter with metal & rock music influences.🤘🏻 
-- 📸 &nbsp; Click some photos with my Sony a21 camera
+<div align="center">
 
-## 🔭 Knowing Technologies
-- &nbsp; 
-![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=0066FF)
-![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=0066FF)
-- &nbsp; 
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=0066FF)
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=0066FF)
-![UE4](https://img.shields.io/badge/Code-Unreal%20Engine-informational?style=flat&logo=Unreal-Engine&logoColor=white&color=0066FF)
-- &nbsp; 
-![SCSS](https://img.shields.io/badge/Web-SCSS-informational?style=flat&logo=Sass&logoColor=white&color=0066FF)
-![BS](https://img.shields.io/badge/Web-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=0066FF)
-![Tailwind](https://img.shields.io/badge/Web-Tailwind-informational?style=flat&logo=TailwindCss&logoColor=white&color=0066FF)
-![MaterialUI](https://img.shields.io/badge/Web-MaterialUI-informational?style=flat&logo=MUI&logoColor=white&color=0066FF)
-![JS](https://img.shields.io/badge/Web-JavaScript-informational?style=flat&logo=Javascript&logoColor=white&color=0066FF)
-![NodeJS](https://img.shields.io/badge/Web-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=0066FF)
-![ExpressJS](https://img.shields.io/badge/Web-Express.js-informational?style=flat&logo=Express&logoColor=white&color=0066FF)
-![NestJS](https://img.shields.io/badge/Web-Nest.js-informational?style=flat&logo=NestJs&logoColor=white&color=0066FF)
-![ReactJS](https://img.shields.io/badge/Web-React.js-informational?style=flat&logo=React&logoColor=white&color=0066FF)
-![Next.js](https://img.shields.io/badge/Web-Next.js-informational?style=flat&logo=Next.js&logoColor=white&color=0066FF)
-![Angular](https://img.shields.io/badge/Web-Angular-informational?style=flat&logo=Angular&logoColor=white&color=0066FF)
-![Redux](https://img.shields.io/badge/Web-Redux-informational?style=flat&logo=Redux&logoColor=white&color=0066FF)
-![GraphQL](https://img.shields.io/badge/Web-GraphQL-informational?style=flat&logo=GraphQL&logoColor=white&color=0066FF)
-![PHP](https://img.shields.io/badge/Web-PHP-informational?style=flat&logo=PHP&logoColor=white&color=0066FF)
-- &nbsp;
-![MySQL](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=0066FF)
-![Mongo](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=0066FF)
-![Firebase](https://img.shields.io/badge/DB-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=0066FF)
-- &nbsp;
-![Git](https://img.shields.io/badge/Version%20Control-Git-informational?style=flat&logo=Git&logoColor=white&color=0066FF)
-![Github](https://img.shields.io/badge/Version%20Control-Github-informational?style=flat&logo=Github&logoColor=white&color=0066FF)
-- &nbsp;
-![VSCode](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=0066FF)
-![PhpStorm](https://img.shields.io/badge/Editor-PHP%20Storm-informational?style=flat&logo=PhpStorm&logoColor=white&color=0066FF)
-![PyCharm](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=0066FF)
-- &nbsp;
-![Docker](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=Docker&logoColor=white&color=0066FF)
-![TravisCI](https://img.shields.io/badge/DevOps-TravisCI-informational?style=flat&logo=Travis&logoColor=white&color=0066FF)
-- &nbsp;
-![Wordpress](https://img.shields.io/badge/CMS-Wordpress-informational?style=flat&logo=Wordpress&logoColor=white&color=0066FF)
-![Presta](https://img.shields.io/badge/CMS-Prestashop-informational?style=flat&logo=Prestashop&logoColor=white&color=0066FF)
-![Magento](https://img.shields.io/badge/CMS-Magento-informational?style=flat&logo=Magento&logoColor=white&color=0066FF)
-![Strapi](https://img.shields.io/badge/CMS-Strapi-informational?style=flat&logo=Strapi&logoColor=white&color=0066FF)
-## My Stats
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=leuterkil&theme=radical&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leuterkil&theme=radical&layout=compact" />
+# Hi, I'm Lefteris 👋
+
+### Software Engineer · Frontend & TypeScript · Self-Hosting & Privacy Enthusiast
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+
+</div>
+
+---
+
+### About me
+
+- 🎓 B.Sc. in Informatics Engineering & Telecommunications @ [IHU](http://ict.ihu.gr/)
+- 💼 Working on frontend/web engineering, currently focused on TypeScript & React/Next.js
+- 🔐 Deep into self-hosting, privacy-first tooling, and de-Googling my own stack
+- 🛠️ Building side projects: a privacy-respecting link shortener (Next.js + SQLite + Docker) and a Share Sheet URL-to-Markdown Android app
+- 🎸 Bass guitar player
+- 🎲 Into tabletop RPGs (D&D)
+- 🎮 Gaming when I get the time — Tekken, Guitar Hero, The Messenger
+- 📸 Photography with a Sony a2100
+
+---
+
+### 🧰 Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Infra & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=leuterkil&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=leuterkil&theme=radical&layout=compact&hide_border=true" />
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leuterkil&theme=onedark" alt="leuterkil" /></a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leuterkil&theme=radical&hide_border=true" />
+</p>
 
-![counter](https://ennd8wxr3kpy0ar.m.pipedream.net)
+---
 
-## Connect with me
-<div align="center">
-<a href="https://twitter.com/CharissopoulosL" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-<a href="https://github.com/leuterkil" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/eleftherios-charissopoulos/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/djfreedom3/" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/lefteris_harissopoulos/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
- <a href="https://echarissopoulos.cf" target="_blank">
-<img src=https://img.shields.io/badge/web-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a> 
-</div> 
+### 🔗 Connect with me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/eleftherios-charissopoulos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/leuterkil" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://twitter.com/CharissopoulosL" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://www.instagram.com/lefteris_harissopoulos/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://echarissopoulos.cf" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=leuterkil&style=flat-square&color=blue" alt="profile views" /></p>
